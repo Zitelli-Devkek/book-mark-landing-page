@@ -14,4 +14,4 @@
 
 .btn-white {
   @apply bg-bookmark-white;
-} /** componentes que quise agregar pero que no funcionan por alguna razón, incluso luego de utilizar npm build:tailwind */
+} /**Ya no son necesarios, pero antes no funcionaban y decidí dejarlos. Sirven para reducir código*/
